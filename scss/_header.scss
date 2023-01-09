@@ -1,0 +1,9 @@
+.header-bg {
+  background-image: url(../assets/headerbg.jpg);
+  background-size: cover;
+}
+@media only screen and (min-width: 1024px) {
+  header {
+    padding: 0px 0px 200px 0px;
+  }
+}
